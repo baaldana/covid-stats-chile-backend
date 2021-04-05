@@ -1,5 +1,5 @@
 # covidstatsapp
-Proyecto personal de Benjamín Aldana y Franco Castillo.
+Proyecto conjunto de Benjamín Aldana y Franco Castillo.
 
 Aplicación desarrollada con Django + React.
 DB con PostgreSQL.
