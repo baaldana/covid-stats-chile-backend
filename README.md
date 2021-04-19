@@ -1,6 +1,2 @@
 # covidstatsapp
-Proyecto conjunto de Benjamín Aldana y Franco Castillo.
-
-Aplicación desarrollada con Django + React.
-DB con PostgreSQL.
-Deploy en Heroku.
+Proyecto conjunto de [Benjamín Aldana](https://github.com/baaldana/) y [Franco Castillo](https://github.com/Franco1605/).
